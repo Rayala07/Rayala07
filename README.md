@@ -90,7 +90,7 @@ Full-stack knowledge management platform for organizing bookmarks, notes, articl
 | **Impact** | Reduced content retrieval effort by an estimated 70% via RAG-based semantic search |
 | **Repository** | [[relic](https://github.com/Rayala07/relic)] |
 
-RELIC combines a PostgreSQL-backed data model with vector embeddings (Pinecone) to power retrieval-augmented semantic search across saved content. An AI-driven ingestion pipeline paired with a companion browser extension automatically captures, tags, and categorizes content, removing manual organization work entirely. The backend is architected as modular, microservice-oriented services for ingestion and search, prioritizing scalability, reliability, and maintainability for future feature growth.
+RELIC combines a MonogoDB-backed data model with vector embeddings (Pinecone) to power retrieval-augmented semantic search across saved content. An AI-driven ingestion pipeline paired with a companion browser extension automatically captures, tags, and categorizes content, removing manual organization work entirely. The backend is architected as modular and monolothic folder structure with optimised services for ingestion and search, prioritizing scalability, reliability, and maintainability for future feature growth.
 
 </details>
 
@@ -128,16 +128,6 @@ RELIC combines a PostgreSQL-backed data model with vector embeddings (Pinecone) 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayala07&theme=dracula&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayala07&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rayala07&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=10"/>
 
 </div>
 
