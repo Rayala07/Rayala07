@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rayala%20Viswanath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20specializing%20in%20AI-Integrated%20Web%20Applications&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-Integrated+Web+Applications;RAG+%7C+LangChain+%7C+LangGraph+%7C+Vector+Search;Full-Stack+Engineer+%7C+React+%2B+Node.js+%2B+PostgreSQL;Open+to+Remote+Opportunities+at+Early-Stage+AI+Startups" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-Integrated+Web+Applications;Scalable+Product+Architecture;RAG+%7C+LangChain+%7C+LangGraph+%7C+Vector+Search;Full-Stack+Engineer+%7C+React+%2B+Node.js+%2B+PostgreSQL;Open+to+Opportunities" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rayala07&color=8b5cf6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Rayala07?label=Followers&style=flat-square&color=8b5cf6)
-![Stars](https://img.shields.io/github/stars/Rayala07?label=Stars&style=flat-square&color=8b5cf6)
 
 </div>
 
@@ -23,16 +22,14 @@
 
 ## 🧠 About Me
 
-I'm **Rayala Viswanath**, a Full-Stack Engineer focused on building **AI-integrated web applications** — systems that combine solid software engineering fundamentals with practical applied AI such as RAG pipelines, vector search, and agentic workflows.
+I'm **Rayala Viswanath**, a Full-Stack Engineer focused on building **AI-integrated web platforms and applications**. Systems that combine solid software engineering fundamentals with practical applied AI such as RAG pipelines and agentic workflows.
 
-I work across the stack: designing RESTful and microservice-oriented backend architectures, building responsive React interfaces, and wiring up retrieval-augmented generation pipelines using LangChain, LangGraph, and vector databases like Pinecone.
+I work across the stack: Designing RESTful and scalable backend architectures, building responsive React interfaces, and wiring up retrieval-augmented generation pipelines using LangChain, LangGraph, and vector databases like Pinecone.
 
-My focus is on shipping production-grade systems with a strong emphasis on scalability, reliability, and developer experience — with a product engineering mindset that prioritizes real user impact over technical novelty.
+My focus is on shipping production-grade systems with a strong emphasis on scalability, reliability, and developer experience with a product engineering mindset that prioritizes real user impact over technical novelty.
 
 ### 🎯 Open To
-- Remote roles at early-stage AI startups
-- Full-stack / AI-integration engineering roles
-- Collaborations on RAG, LangChain / LangGraph, and AI workflow tooling
+- Full-stack, Backend & Applied AI engineering roles
 
 ---
 
@@ -64,7 +61,7 @@ My focus is on shipping production-grade systems with a strong emphasis on scala
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🤖 AI / Applied ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -79,7 +76,7 @@ My focus is on shipping production-grade systems with a strong emphasis on scala
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🔖 RELIC — Save Anything. Find Everything.</b></summary>
+<summary><b>🔖 RELIC Save Anything. Find Everything.</b></summary>
 <br/>
 
 Full-stack knowledge management platform for organizing bookmarks, notes, articles, and links through semantic retrieval and automated content workflows.
@@ -91,44 +88,11 @@ Full-stack knowledge management platform for organizing bookmarks, notes, articl
 | **Performance** | Reduced manual content-capture time by 80% via fully automated ingestion |
 | **Security** | Modular service contracts with clear boundaries between ingestion and search services |
 | **Impact** | Reduced content retrieval effort by an estimated 70% via RAG-based semantic search |
-| **Repository** | [Add repository link here] |
+| **Repository** | [[relic](https://github.com/Rayala07/relic)] |
 
-RELIC combines a PostgreSQL-backed data model with vector embeddings (Pinecone) to power retrieval-augmented semantic search across saved content. An AI-driven ingestion pipeline — paired with a companion browser extension — automatically captures, tags, and categorizes content, removing manual organization work entirely. The backend is architected as modular, microservice-oriented services for ingestion and search, prioritizing scalability, reliability, and maintainability for future feature growth.
-
-</details>
-
-<details>
-<summary><b>🔖 Add Your Next Project Here</b></summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | — |
-| **Scale** | — |
-| **Performance** | — |
-| **Security** | — |
-| **Impact** | — |
-| **Repository** | — |
-
-Project description goes here.
+RELIC combines a PostgreSQL-backed data model with vector embeddings (Pinecone) to power retrieval-augmented semantic search across saved content. An AI-driven ingestion pipeline paired with a companion browser extension automatically captures, tags, and categorizes content, removing manual organization work entirely. The backend is architected as modular, microservice-oriented services for ingestion and search, prioritizing scalability, reliability, and maintainability for future feature growth.
 
 </details>
-
----
-
-## 💼 Experience
-
-#### Job Title — Company Name
-`Month Year – Month Year`
-
-Add a short professional description of the role here.
-
-**Scope of Work**
-- Add a key responsibility or contribution
-- Add another key responsibility or contribution
-- Add another key responsibility or contribution
-
-**Skills:** `Skill 1` `Skill 2` `Skill 3` `Skill 4`
 
 ---
 
@@ -138,7 +102,7 @@ Add a short professional description of the role here.
 
 | Recognition | Details |
 |---|---|
-| 🏅 Top Best Pitchers — Startup Build Hackathon | Sheryians Coding School, May 2026 — Recognized for presenting an AI-driven product concept and technical implementation of an automated incident management system |
+| 🏅 Top Best Pitchers @ Startup Build Hackathon | Sheryians Coding School, May 2026. Recognized for presenting an AI-driven product concept and technical implementation of an automated incident management system |
 
 </div>
 
@@ -232,7 +196,7 @@ current_focus:
 
 <div align="center">
 
-> "Build things that work, then make them work at scale."
+"Transforming Ideas to Products. One at a time."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
